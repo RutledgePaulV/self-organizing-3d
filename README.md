@@ -7,7 +7,7 @@ a demonstration of that ability by using 4-data-dimensional colors (red, green, 
 and mapping those colors into 3-dimensional space (which you're actually seeing as 2D...).
 
 I've provided this animation, as well as a couple static images so you can see what it looks like:
-<img src="https://github.com/RutledgePaulV/self-organizing-3d/master/animation.gif"/>
+<img src="https://raw.githubusercontent.com/RutledgePaulV/self-organizing-3d/master/animation.gif"/>
 
 You'll notice that prior to training the network, the colors of varying hues and opacities are randomly scattered,
 as in this image:
